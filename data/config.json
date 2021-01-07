@@ -1,0 +1,29 @@
+{
+    "program": {
+        "update_interval": 15,
+        "play_sound": true,
+        "added_to_register": false,
+        "currency": "USD"
+    },
+    "1": {
+        "parser_name": "200",
+        "tmp_file": "temp\\78109053289.json",
+        "brand": "audi",
+        "model": "200",
+        "body_type": "\u0412\u0441\u0435",
+        "fuel_type": "\u0412\u0441\u0435",
+        "color": "\u0412\u0441\u0435",
+        "transmission_type": "\u0412\u0441\u0435",
+        "condition_type": "\u0412\u0441\u0435",
+        "custom_type": "\u0412\u0441\u0435",
+        "min_price": null,
+        "max_price": null,
+        "min_engine_size": null,
+        "max_engine_size": null,
+        "min_motor_year": null,
+        "max_motor_year": null,
+        "min_motor_mileage": null,
+        "max_motor_mileage": null,
+        "last_hash": "7a9d756c357f755a7af0226b998b223bfbffda4e45bfa0ad6608082de8ff6895"
+    }
+}
